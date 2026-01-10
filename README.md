@@ -170,4 +170,4 @@ model = pickle.load(open('emotion_classification-model.pkl', 'rb'))
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
 - [Google Colab](https://colab.research.google.com/)
 
-This README file provides a comprehensive guide to understanding, setting up, and running the emotion detection project using neural networks.
+
